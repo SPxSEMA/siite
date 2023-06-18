@@ -1,0 +1,156 @@
+.html,body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Exo', sans-serif;
+}
+
+
+
+.hd{
+    font-size: 30px;
+    background-color:#9932CC;
+    width: 100%;
+    text-align: center;
+    border: 3px solid black;
+    position: fixed; 
+    height: 50px;
+   
+}
+
+
+
+.t1{
+    padding-right:10%;
+}
+.t2{
+    padding-right: 10%;
+}
+.t3{
+    padding-right: 10%;
+}
+
+.ddd{
+    background-color: orange;
+    border: 2px solid rgb(255, 238, 0);
+    font-size: 25px;
+}
+
+
+.qq{
+        font-size: 50px;
+        padding-top: 200px;
+        text-align: center;
+        padding-bottom: 70px;
+}
+
+.preqq{
+    text-align: center;
+}
+
+
+
+.pyst{
+    height: 300px;
+}
+
+
+.polosa{
+    height: 5px;
+    background-color: red;
+}
+
+
+.kon{
+    font-size: 40px;
+    margin-left: 22.5%;
+}
+.cos{
+    font-size: 40px;
+    position: absolute;
+    margin-left: 30%;
+}
+
+.tp{
+    margin-top: 15px;
+    font-size: 20px;
+    margin-left: 22.5%;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.knop1{
+    text-decoration: none;
+    display: inline-block;
+    width: 225px;
+    height: 85px;
+    line-height: 45px;
+    border-radius: 45px;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+    transition: .3s;
+}
+.knop1:hover {
+        background: #2EE59D;
+        box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+        color: white;
+        transform: translateY(-7px);
+}
+
+
+.knop2{
+    text-decoration: none;
+    display: inline-block;
+    width: 225px;
+    height: 85px;
+    line-height: 45px;
+    border-radius: 45px;
+    margin: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+    transition: .3s;
+}
+.knop2:hover {
+        background: #2EE59D;
+        box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+        color: white;
+        transform: translateY(-7px);
+} 
+
+.imgs{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 2px solid rgb(0, 132, 255);
+    margin-top: 25px;
+}
+
+
+
+.textotz{
+    font-size: 50px;
+    text-align: center;
+}
+
+.textotzzz{
+    font-size: 20px;
+}
+
+
